@@ -1,7 +1,0 @@
-com\kite\qa\base\TestBase.class
-com\kite\qa\pages\FundsPage.class
-com\kite\qa\pages\LoginPage.class
-com\kite\qa\pages\HoldingPage.class
-com\kite\qa\util\TestUtil.class
-com\kite\qa\pages\OrdersPage.class
-com\kite\qa\pages\HomePage.class
